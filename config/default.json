@@ -1,6 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://abhiraizada:abhiraizada@devconnector.nuqr5.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret":"mysecrettoken",
-    "githubClientId":"b12ea59016c3cf4738df",
-    "githubSecret":"0f2c107a98b01051994460e39d0570c014ee7cbd"
-}
